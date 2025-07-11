@@ -16,8 +16,7 @@ NUMERIK PADA PENERAPAN KALKULUS FINITE DAN EKSTRAPOLASI LAGRANGE
 ## 📺 Demo Aplikasi  
 Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
 
-[![Demo Aplikasi](<img width="1006" height="566" alt="image" src="https://github.com/user-attachments/assets/0dc51b1d-ff48-4ec3-9994-7cf7a8f0eaa3" />
-)](https://www.youtube.com/watch?v=OAI1qRs_3LU)
+[![Demo Aplikasi](TA.jpg)](https://www.youtube.com/watch?v=OAI1qRs_3LU)
 
 *Klik gambar di atas untuk menonton demo*
 
